@@ -6,3 +6,5 @@ env/
 venv/
 *.db
 .DS_Store
+test_flask.py
+flask1/
